@@ -29,7 +29,7 @@ warnings.filterwarnings("ignore")
 
 # ── CONFIG ───────────────────────────────────────────────────
 
-APP_KEY         = "1374e5ed54fd4c64a7fe3a65fe995f462fa0c764"   # paste from APPKEY app in Workspace
+APP_KEY         = ""   # paste from APPKEY app in Workspace
 
 START_DATE      = "2015-01-01"
 END_DATE        = datetime.today().strftime("%Y-%m-%d")
